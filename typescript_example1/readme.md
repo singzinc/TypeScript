@@ -1,8 +1,11 @@
-run the command in termainal 
-tsc example1.ts
+# basic example
+> how typescript work
+
+run the command in termainal  (compile code)
+>tsc example1.ts
 
 
-The new file will be create (compile code)
+The new JS file will be created
 
 run the code 
-node example1.js
+>node example1.js
